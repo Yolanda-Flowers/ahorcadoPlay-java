@@ -1,6 +1,6 @@
 # Juego de ahorcado en JAVA!
 
-Hicimos un juego de ahorcado en java donde uno debe ir colocando letra a letra hasta adivinar la palabra, en la consola y solo tiene pocos intentos trata de adivinar y aprender al mismo tiempo.
+Realice un juego de ahorcado en java donde uno debe ir colocando letra a letra hasta adivinar la palabra, en la consola y solo tiene pocos intentos trata de adivinar y aprender al mismo tiempo.
 
 
 ## Que herramientas utilizamos?
